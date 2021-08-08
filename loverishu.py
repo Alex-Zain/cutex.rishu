@@ -77,8 +77,14 @@ def logout():
         time.sleep(1)
 
 
-logo = "\033[1;92m\n\n╔══o00════════00o═════════════════════════╗\n.|  [•] Author         :   Rishu Khan            |\n.|  [•] Facebook    :   Rishu 3:)         |\n.|  [•] Whatsapp   :   Nhi Hai            |\n.|  [•] Grup Fb       :   Nhi Hai Mera Aapna |\n.|  [•] Version.      :   0.2                  |"
-idh = []
+logo = "
+      ╔══o00════════00o══════════════════════════╗
+      █  [•] Author         :   Rishu Khan             █
+      █  [•] Facebook    :   Rishu 3:)                 █
+      █  [•] Whatsapp   :   Nhi Hai                    █
+      █  [•] Grup Fb       :   Nhi Hai Mera Aapna      █
+      █  [•] Version.      :   0.2                     █
+      ╚═════════════════════════════════════════╝"
 
 def tech_abm():
     os.system('clear')
